@@ -1,0 +1,3 @@
+# De Morgan laws
+~(a | b) <-> ~a & ~b
+~(a & b) <-> ~a | ~b

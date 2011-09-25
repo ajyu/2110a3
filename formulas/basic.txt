@@ -1,0 +1,12 @@
+# some basic formulas
+T
+F
+a -> a
+a -> a | b
+a & b -> a
+a -> a & b
+(p -> q) & (p & q -> r) -> (p -> r)
+(p -> q) & (~p -> r) <-> (p & q) | (~p & r)
+a | b -> b | a
+((pa -> qb) & (pa & qb -> rc)) -> (pa -> rc)
+aa -> bb

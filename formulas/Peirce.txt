@@ -1,0 +1,2 @@
+# Peirce's law
+((x -> y) -> x) -> x
